@@ -1,0 +1,7 @@
+/home/lijuan/pros/github/llvm-tutor/build/CMakeFiles/intrinsics_gen.dir
+/home/lijuan/pros/github/llvm-tutor/build/CMakeFiles/omp_gen.dir
+/home/lijuan/pros/github/llvm-tutor/build/CMakeFiles/acc_gen.dir
+/home/lijuan/pros/github/llvm-tutor/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/lijuan/pros/github/llvm-tutor/build/CMakeFiles/HelloWorld.dir
+/home/lijuan/pros/github/llvm-tutor/build/CMakeFiles/edit_cache.dir
+/home/lijuan/pros/github/llvm-tutor/build/CMakeFiles/rebuild_cache.dir
